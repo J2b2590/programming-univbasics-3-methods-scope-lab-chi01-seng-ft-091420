@@ -20,8 +20,10 @@ def all_phrases
   link
 end
 
-end
+
 
 mario
 toadstool
 link
+
+all_phrases
